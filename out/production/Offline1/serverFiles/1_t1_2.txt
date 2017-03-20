@@ -1,0 +1,2 @@
+3 5 6 out 2 dot 
+score : 45 wickets : 3

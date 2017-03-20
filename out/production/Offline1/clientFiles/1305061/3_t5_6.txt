@@ -1,0 +1,2 @@
+out 3 5 4 4 4 
+score : 125 wickets : 3

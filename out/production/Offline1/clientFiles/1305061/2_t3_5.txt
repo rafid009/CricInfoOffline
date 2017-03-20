@@ -1,0 +1,2 @@
+2 5 1 2 2 out 
+score : 80 wickets : 4

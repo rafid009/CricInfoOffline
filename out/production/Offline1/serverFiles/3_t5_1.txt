@@ -1,0 +1,2 @@
+dot 4 5 2 4 out 
+score : 26 wickets : 1

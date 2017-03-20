@@ -1,0 +1,2 @@
+1 out 6 5 3 2 
+score : 145 wickets : 7

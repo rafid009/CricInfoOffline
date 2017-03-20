@@ -1,0 +1,2 @@
+1 6 2 4 5 6 
+score : 143 wickets : 4
